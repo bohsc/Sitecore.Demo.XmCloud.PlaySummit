@@ -49,5 +49,5 @@
   "tags": [],
   "$schema": "./.sitecore/schemas/ModuleConfiguration.schema.json",
   "namespace": "IntegrationTestsData",
-  "references": ["HeadlessSxaWebsite-Content"]
+  "references": ["HeadlessSxaWebsite"]
 }
