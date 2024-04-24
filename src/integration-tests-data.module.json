@@ -1,0 +1,53 @@
+{
+  "items": {
+    "includes": [
+      {
+        "name": "DevExTemplates",
+        "database": "master",
+        "path": "/sitecore/templates/Project/DevEx",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateUpdateAndDelete",
+        "rules": []
+      },
+      {
+        "name": "DevExRenderings",
+        "database": "master",
+        "path": "/sitecore/layout/Renderings/Project/DevEx",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateUpdateAndDelete",
+        "rules": []
+      },
+      {
+        "name": "DevExLayouts",
+        "database": "master",
+        "path": "/sitecore/layout/Layouts/Project/DevEx",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateUpdateAndDelete",
+        "rules": []
+      },
+      {
+        "name": "DevExPlaceholders",
+        "database": "master",
+        "path": "/sitecore/layout/Placeholder Settings/Project/DevEx",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateUpdateAndDelete",
+        "rules": []
+      },
+      {
+        "name": "DevExContent",
+        "database": "master",
+        "path": "/sitecore/content/PLAY/playwebsite/home/DevEx",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateUpdateAndDelete",
+        "rules": []
+      }
+    ],
+    "excludedFields": []
+  },
+  "roles": [],
+  "users": [],
+  "tags": [],
+  "$schema": "./.sitecore/schemas/ModuleConfiguration.schema.json",
+  "namespace": "IntegrationTestsData",
+  "references": ["HeadlessSxaWebsite-Content"]
+}
