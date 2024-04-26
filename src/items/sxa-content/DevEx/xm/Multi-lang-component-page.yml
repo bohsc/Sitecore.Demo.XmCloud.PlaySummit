@@ -2,7 +2,7 @@
 ID: "cea00630-e087-465f-8e22-33620ef0c6fe"
 Parent: "7f07d47c-f499-43ad-ab9f-8de4ce6cac4c"
 Template: "456bd9ed-1929-4103-9ba3-54dadb1f5ac5"
-Path: "/sitecore/content/PLAY/playwebsite/home/DevEx/xmlayout/Multi-lang-component-page"
+Path: "/sitecore/content/PLAY/playwebsite/home/DevEx/xm/Multi-lang-component-page"
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder

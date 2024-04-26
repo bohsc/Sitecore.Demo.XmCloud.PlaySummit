@@ -1,27 +1,22 @@
 ﻿---
-ID: "b113ef8c-7bbf-42c0-8e89-c905cadc9d8e"
-Parent: "c0e6ce50-06e6-4776-a446-8a56777f40cb"
-Template: "456bd9ed-1929-4103-9ba3-54dadb1f5ac5"
-Path: /sitecore/content/PLAY/playwebsite/home/DevEx/edgegql
-SharedFields:
-- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
-  Hint: __Thumbnail
-  Value: |
-    <image mediaid="{8E885F1D-8E79-47D9-9C30-0D629D048E49}" />
+ID: "456bc92a-13d8-4c3f-ac72-149fddc484b6"
+Parent: "abec8008-2a4d-4e1b-80e0-3bfb05ba7ed4"
+Template: "79c392cf-4f76-4824-8157-bb73637523d3"
+Path: /sitecore/content/PLAY/playwebsite/home/DevEx/Data/Datetime Data
 Languages:
 - Language: en
   Versions:
   - Version: 1
     Fields:
-    - ID: "17707054-bc28-496c-925f-e614ba18f3e0"
-      Hint: Title
-      Value: edgegql
+    - ID: "17327189-03c0-4d6b-becd-b818bf2a052a"
+      Hint: date
+      Value: 20240425T000000Z
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240422T130240Z
-    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
-      Hint: NavigationTitle
-      Value: xmlayout
+      Value: 20240425T092955Z
+    - ID: "446186a1-e5ef-4408-b5b8-e3f48a7d3fc0"
+      Hint: dateTime
+      Value: 20240425T092900Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -32,11 +27,11 @@ Languages:
         sitecore\bohdan.dorokhin@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1d881459-7a75-4c2e-8744-39c309f772dd"
+      Value: "0d982369-f19c-4dce-bb9a-09aca941358c"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\bohdan.dorokhin@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240425T160158Z
+      Value: 20240425T093001Z

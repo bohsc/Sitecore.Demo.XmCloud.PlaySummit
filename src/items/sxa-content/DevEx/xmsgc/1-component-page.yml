@@ -1,16 +1,13 @@
 ﻿---
-ID: "6c37f170-c38f-4e08-b9c7-bed3cd91d302"
-Parent: "7f07d47c-f499-43ad-ab9f-8de4ce6cac4c"
+ID: "29656138-e419-4439-a2ff-60ad1e0ec631"
+Parent: "7172ac8b-00e2-4ed2-8634-968770c332a1"
 Template: "456bd9ed-1929-4103-9ba3-54dadb1f5ac5"
-Path: "/sitecore/content/PLAY/playwebsite/home/DevEx/xmlayout/5-components-page"
+Path: "/sitecore/content/PLAY/playwebsite/home/DevEx/xmsgc/1-component-page"
 SharedFields:
-- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
-  Hint: __Sortorder
-  Value: 100
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{6C6B2AF0-DDEB-4BB5-A440-961CE3F2C93E}" />
+    <image mediaid="{B1C8061D-05EF-4BC9-AB66-2A6C316E4A70}" />
 Languages:
 - Language: en
   Versions:
@@ -22,33 +19,31 @@ Languages:
         <r xmlns:p="p" xmlns:s="s"
           p:p="1">
           <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
-            s:l="{DF37AFB2-44D3-41D5-9080-F63694B1C20A}" />
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{B8A93EC7-E427-4505-92E5-79CD8780619D}"
+              s:ds="{EA3B7EA6-D3EA-4232-B6FF-AA5C5B248C43}"
+              s:id="{E41407DA-3F0E-436C-8754-8F01518A1DF7}"
+              s:par="CSSStyles"
+              s:ph="devex-main" />
+          </d>
         </r>
     - ID: "17707054-bc28-496c-925f-e614ba18f3e0"
       Hint: Title
-      Value: 5 components page
+      Value: "1-component-page"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240422T130929Z
+      Value: 20240425T151630Z
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: 5 components page
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\bohdan.dorokhin@sitecore.com
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\bohdan.dorokhin@sitecore.com
+      Value: "1-component-page"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9c7d725e-0127-4eaa-9dd6-1511bc29758b"
+      Value: "a3d7deda-13ab-44d2-bd41-aed33ad5d433"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\bohdan.dorokhin@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240423T070033Z
+      Value: 20240426T065944Z
