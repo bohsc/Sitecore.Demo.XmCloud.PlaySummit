@@ -73,6 +73,7 @@
     <PackageReference Include="Sitecore.Services.GraphQL.EdgeSchema" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Config\Include\EnableDebug.config" />
     <Content Include="App_Config\Include\Sitecore.LoadBalancing.config" />
     <Content Include="App_Config\Include\Sitecore.Media.config" />
     <Content Include="App_Config\Include\Sitecore.Demo.Edge.Website.config" />
