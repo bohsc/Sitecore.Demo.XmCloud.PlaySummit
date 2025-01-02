@@ -77,9 +77,6 @@
     <Content Include="App_Config\Include\Sitecore.Media.config" />
     <Content Include="App_Config\Include\Sitecore.Demo.Edge.Website.config" />
     <Content Include="App_Config\Include\Sitecore.Demo.Edge.Website.Custom.config" />
-    <Content Include="bin\Sitecore.GraphQL.Services.dll" />
-    <Content Include="bin\Sitecore.GraphQL.Services.pdb" />
-    <Content Include="bin\Sitecore.GraphQL.Services.xml" />
     <Content Include="sitecore\shell\Themes\Standard\EdgeIcons.zip" />
     <Content Include="Utilities\ClearAllCaches.aspx" />
     <Content Include="Utilities\InitializePointOfSale.aspx" />
